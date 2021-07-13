@@ -43,7 +43,7 @@ int main(){
 		fgets(soft[i].author,MAX_LIMIT,stdin);
 		printf("Enter The Software version:");
 		scanf("%f",&soft[i].version);
-		printf("Enter The Softerware Publised year:");
+		printf("Enter The Software Published year:");
 		scanf("%d",&soft[i].year);
 		printf("Enter The Price Of The Software:");
 		scanf("%ld",&soft[i].price);
@@ -57,7 +57,7 @@ int main(){
 		printf("Software Application Name Is:%s",soft[i].name);
 		printf("Author Name Is:%s",soft[i].author);
 		printf("Software Version Is :%.2f\n",soft[i].version);
-		printf("Softerware Publised Year:%d\n",soft[i].year);
+		printf("Software Published Year:%d\n",soft[i].year);
 		printf("Price Of The Software:%ld Rupees\n",soft[i].price);
 		printf("\n");
 	}
@@ -86,7 +86,7 @@ int main(){
 		printf("Software Application Name Is:%s",soft[i].name);
 		printf("Author Name Is:%s",soft[i].author);
 		printf("Software Version Is :%.2f\n",soft[i].version);
-		printf("Softerware Publised Year:%d\n",soft[i].year);
+		printf("Software Published Year:%d\n",soft[i].year);
 		printf("Price Of The Software:%ld Rupees\n",soft[i].price);
 		printf("\n");
 	}
@@ -104,7 +104,7 @@ int main(){
 		printf("Software Application Name is:%s",soft[i].name);
 		printf("Author Name Is:%s",soft[i].author);
 		printf("Software version is :%.2f\n",soft[i].version);
-		printf("Softerware Publised year was:%d\n",soft[i].year);
+		printf("Software Published year was:%d\n",soft[i].year);
 		printf("Price Of The Software:%ld rupees\n",soft[i].price);
 		printf("\n");
 		}
@@ -142,7 +142,7 @@ int main(){
 		printf("Software Application Name Is:%s",soft[i].name);
 		printf("Author Name Is:%s",soft[i].author);
 		printf("Software Version Is :%.2f\n",soft[i].version);
-		printf("Softerware Publised Year:%d\n",soft[i].year);
+		printf("Software Published Year:%d\n",soft[i].year);
 		printf("Price Of The Software:%ld Rupees\n",soft[i].price);
 		printf("\n");
 	}
@@ -170,7 +170,7 @@ int main(){
 		printf("Software Application Name Is:%s",soft[i].name);
 		printf("Author Name Is:%s",soft[i].author);
 		printf("Software Version Is :%.2f\n",soft[i].version);
-		printf("Softerware Publised Year:%d\n",soft[i].year);
+		printf("Software Published Year:%d\n",soft[i].year);
 		printf("Price Of The Software:%ld Rupees\n",soft[i].price);
 		printf("\n");
 	}
